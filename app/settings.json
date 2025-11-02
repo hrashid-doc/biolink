@@ -1,0 +1,64 @@
+{
+  "metaTitle": "Glitch in Bio!",
+  "metaDescription": "My meta description.",
+  "name": "Hussein Rashid, PhD",
+  "theme": "glitch",
+  "avatarImage": "https://cdn.glitch.global/55eaa154-b471-4be0-8618-d441f546c319/emoji.png?v=1669494196614",
+  "links": [
+    {
+      "url": "https://www.husseinrashid.com",
+      "text": "Me, at my own website.",
+      "img": "https://cdn.glitch.me/efc5414a-882b-4708-af81-8461abbc1a82%2Fglitchmidblues.png?v=1634289872484",
+      "altText": "Glitch blue generative art"
+    },
+    {
+      "url": "https://bookshop.org/lists/find-me-in-print",
+      "text": "I know things and I write things!(Bookshop)",
+      "img": "Bookshop.org link"
+    },
+    {
+      "url": "https://muckrack.com/islamoyankee",
+      "text": "I have opinions! (Muckrack)",
+      "img": "https://cdn.glitch.me/efc5414a-882b-4708-af81-8461abbc1a82%2Fglitchdarkpinks.png?v=1634289859236"
+    },
+    {
+      "url": "https://authory.com/HusseinRashid",
+      "text": "I have lots of opinions! (Authory)",
+      "img": "https://cdn.glitch.me/efc5414a-882b-4708-af81-8461abbc1a82%2Fglitchdarkpinks.png?v=1634289859236"
+    }
+  ],
+  "social": {
+    "glitch": "",
+    "arena": "",
+    "bandcamp": "",
+    "bluesky": "https://bsky.app/profile/islamoyankee.bsky.social",
+    "dev": "",
+    "facebook": "",
+    "github": "",
+    "gitlab": "",
+    "hashnode": "",
+    "instagram": "",
+    "keybase": "",
+    "kofi": "",
+    "letterboxd": "",
+    "linkedin": "https://www.linkedin.com/in/husseinrashid/",
+    "mastodon": "https://mastodon.social/@islamoyankee",
+    "medium": "https://medium.com/@islamoyankee",
+    "patreon": "",
+    "pinboard": "",
+    "pinterest": "",
+    "podcast": "",
+    "post": "",
+    "soundcloud": "",
+    "spotify": "",
+    "stackoverflow": "",
+    "substack": "",
+    "twitter": "",
+    "twitch": "",
+    "tiktok": "",
+    "tumblr": "",
+    "youtube": "https://www.youtube.com/islamoyankee",
+    "cohost": "",
+    "email": "hr@husseinrashid.com"
+  }
+}
